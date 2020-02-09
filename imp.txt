@@ -1,0 +1,2 @@
+not a constructor
+>>npm install tesseract.js@2.0.0-alpha.15 
